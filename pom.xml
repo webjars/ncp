@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ncp</artifactId>
-    <version>0.5.1</version>
+    <version>0.5.2-SNAPSHOT</version>
     <name>ncp</name>
     <description>WebJar for ncp</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/ncp</url>
         <connection>scm:git:https://github.com/webjars/ncp.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ncp.git</developerConnection>
-        <tag>ncp-0.5.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
